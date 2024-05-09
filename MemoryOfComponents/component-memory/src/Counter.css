@@ -1,0 +1,17 @@
+.counter{
+    text-align: center;
+    font-weight:bold;
+    font-size: 30px;
+}
+
+.button1{
+    font-size: 20px;
+    font-weight:bold;
+    background-color:lightgreen;
+}
+
+.button2 {
+    font-size: 20px;
+    font-weight:bold;
+    background-color:lightsalmon;
+}
